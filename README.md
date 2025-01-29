@@ -40,7 +40,7 @@ Implementation of pricing for the naming service, the contract used by the contr
 
 
 ## DevDAORegistry.sol
-The implementation of the registry, the contract used by the token owner to set metadata that will correspond with each name and the respective token Id. The functinality includes:
+The implementation of the registry, the contract used by the token owner to set metadata that will correspond with each name and the respective token Id. The functionality includes:
 - Setter for name to token Id
 - Setter for user profile metadata struct
 - Setter for address metadata
